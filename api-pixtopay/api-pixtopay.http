@@ -1,0 +1,6 @@
+@api_pixtopay_HostAddress = http://localhost:5036
+
+GET {{api_pixtopay_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PXhn2nXGeY/tTVGNZAv5IzSvjI51JBF2A4N9Z9LXUOs=",
+  "Source": "api-pixtopay",
+  "BasePath": "_content/api-pixtopay",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
